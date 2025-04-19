@@ -24,16 +24,18 @@ Keywords: Large Language Models, Healthcare, Retrieval-Augmented Generation, Fin
 
 
 **Models**
+
 The Fine tuned 16-bit models are available in huggingface
-[Gemma-2-9b-medquad](https://huggingface.co/bpingua/gemma-2-9b-medquad),
-[Mistral-7b-instruct-v0.3-bnb-4bit-medquad](https://huggingface.co/bpingua/mistral-7b-instruct-v0.3-bnb-4bit-Medquad),
-[Llama-3.1-8B-medquad](https://huggingface.co/bpingua/Llama-3.1-8B-medquad),
-[Qwen2.5-7B-medquad](https://huggingface.co/bpingua/Qwen2.5-7B-Medquad-16bit),
-[Phi-3.5-mini-instruct-medquad](https://huggingface.co/bpingua/Phi-3.5-mini-instruct-Medquad)
++ [Gemma-2-9b-medquad](https://huggingface.co/bpingua/gemma-2-9b-medquad)
++ [Mistral-7b-instruct-v0.3-bnb-4bit-medquad](https://huggingface.co/bpingua/mistral-7b-instruct-v0.3-bnb-4bit-Medquad),
++ [Llama-3.1-8B-medquad](https://huggingface.co/bpingua/Llama-3.1-8B-medquad),
++ [Qwen2.5-7B-medquad](https://huggingface.co/bpingua/Qwen2.5-7B-Medquad-16bit),
++ [Phi-3.5-mini-instruct-medquad](https://huggingface.co/bpingua/Phi-3.5-mini-instruct-Medquad)
 
 **Dataset**
+
 2 types of Medquad dataset were used
-[Original Medquad Dataset](https://huggingface.co/datasets/bpingua/medquad_cleaned)-cleaned version of original [MedQuAD](https://paperswithcode.com/dataset/medquad)
-[Medquad Dataset ShareGPT](https://huggingface.co/datasets/bpingua/medquad_sharegpt_cleaned)-dataset in ShareGPT style.
++ [Original Medquad Dataset](https://huggingface.co/datasets/bpingua/medquad_cleaned)-cleaned version of original [MedQuAD](https://paperswithcode.com/dataset/medquad)
++ [Medquad Dataset ShareGPT](https://huggingface.co/datasets/bpingua/medquad_sharegpt_cleaned)-dataset in ShareGPT style.
 
 
