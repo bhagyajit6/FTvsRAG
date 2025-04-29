@@ -20,7 +20,7 @@ Keywords: Large Language Models, Healthcare, Retrieval-Augmented Generation, Fin
 
 + [Graphs](Graphs.ipynb)-contains the code to generate graphs.
 + [Retrieval-Augmented Generation](RAG.ipynb)-contains the code to implement RAG. 
-+ [Qualitative Analysis](Qualitative_Analysis.ipynb)-contains the code to evaluate the LLMs.
++ [Quantitative_Analysis](Quantitative_Analysis.ipynb)-contains the code to evaluate the LLMs.
 
 
 **Models**
