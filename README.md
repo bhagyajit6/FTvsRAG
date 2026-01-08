@@ -1,3 +1,8 @@
+**Authors:** [Bhagyajit Pingua](https://github.com/bhagyajit6) and [Adyakanta Sahoo](https://github.com/ADYAKANTA25)
+
+This is the official code repository for the paper "Medical LLMs: Fine-Tuning vs. Retrieval-Augmented Generation," published in MDPI Bioengineering.
+
+
 **Abstract**
 
 Large Language Models (LLMs) are trained on huge datasets, which allow them to answer questions from various domains. However, their expertise is confined to the data that they were trained on. 
@@ -26,7 +31,7 @@ Keywords: Large Language Models, Healthcare, Retrieval-Augmented Generation, Fin
 **Models**
 
 The Fine tuned 16-bit models are available in huggingface
-+ [Gemma-2-9b-medquad](https://huggingface.co/bpingua/gemma-2-9b-medquad)
++ [Gemma-2-9b-medquad](https://huggingface.co/bpingua/gemma-2-9b-medquad),
 + [Mistral-7b-instruct-v0.3-bnb-4bit-medquad](https://huggingface.co/bpingua/mistral-7b-instruct-v0.3-bnb-4bit-Medquad),
 + [Llama-3.1-8B-medquad](https://huggingface.co/bpingua/Llama-3.1-8B-medquad),
 + [Qwen2.5-7B-medquad](https://huggingface.co/bpingua/Qwen2.5-7B-Medquad-16bit),
